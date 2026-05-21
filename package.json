@@ -1,0 +1,14 @@
+{
+  "name": "todo-life-dashboard",
+  "version": "1.0.0",
+  "description": "A single-page productivity dashboard with greeting, focus timer, todo list, and quick links.",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@jest/globals": "29.7.0",
+    "fast-check": "3.22.0",
+    "jest": "29.7.0",
+    "jest-environment-jsdom": "29.7.0"
+  }
+}
